@@ -2,7 +2,7 @@
 
 # **CineHD App - Android Streaming App**
 
-![CineHD Logo](a.png)
+![CineHD Logo](/cinehd-logo.png)
 
 ![Screenshot of CineHD App](screenshot.png)
 
