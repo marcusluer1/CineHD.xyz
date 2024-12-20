@@ -2,9 +2,9 @@
 
 # **CineHD App - Android Streaming App**
 
-![Screenshot of CineHD App](cinehd.png)
-
 Download Apk from the official website: [https://cinehd.xyz/download](https://cinehd.xyz/download)
+
+![Screenshot of CineHD App](cinehd.png)
 
 ---
 
